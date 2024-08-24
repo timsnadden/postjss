@@ -22,7 +22,7 @@
     "babel-types": "^6.23.0",
     "deasync": "^0.1.9",
     "escape-string-regexp": "^1.0.5",
-    "postcss": "^5.2.14",
+    "postcss": "^8.4.31",
     "postcss-js": "^0.3.0",
     "postcss-load-config": "^1.2.0",
     "ramda": "^0.23.0",

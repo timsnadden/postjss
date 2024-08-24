@@ -16,9 +16,9 @@
   "license": "MIT",
   "dependencies": {
     "classnames": "^2.2.5",
-    "express": "^4.14.1",
+    "express": "^4.19.2",
     "postjss": "^0.0.9",
-    "pug": "^2.0.0-beta9",
+    "pug": "^3.0.3",
     "ramda": "^0.23.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
@@ -61,7 +61,7 @@
     "stylelint": "^7.9.0",
     "sugarss": "^0.2.0",
     "webpack": "^2.2.1",
-    "webpack-dev-middleware": "^1.9.0",
+    "webpack-dev-middleware": "^5.3.4",
     "webpack-dev-server": "^2.3.0",
     "webpack-hot-middleware": "^2.15.0"
   }
